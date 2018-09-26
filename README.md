@@ -45,3 +45,5 @@ An `Instructor` should initialize with a `name` as a string.
   - Changes a test's status to being `passed`
 - `Instructor#boating_tests`
   - Shows all boating tests that this instructor is conducting
+- `Instructor#students`
+  - Returns an array of all of the full names of the students this person has taught
